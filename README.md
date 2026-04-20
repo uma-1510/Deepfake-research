@@ -289,4 +289,4 @@ detectors = [FrequencyDetector(), ModelBasedDetector(...), MyDetector()]
 
 ---
 
-*Clark University Independent Research — Deepfake Detection on CelebDF-V2*
+*Clark University Independent Research - Deepfake Detection on CelebDF-V2*
